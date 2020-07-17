@@ -1,7 +1,7 @@
 const {Client, MessageAttachment} = require('discord.js');
 const bot = new Client();
 
-const token = 'NzIzODg1MDYxNjk4NjE3NDE1.Xu4JMQ.b-EZoigTTXLu-4TijmXlxJ_qAJ0';
+const token = 'YOUR_TOKEN_HERE';
 
 const PREFIX = "+";
 
