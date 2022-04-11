@@ -18,7 +18,7 @@ bot.on('message', message =>{
 
     switch(args[0]){
         case 'bilgi':
-            message.channel.send('Bu bot @Mr.Monster#4162 tarafından @Mrs.Monster#5007 a ithafen yapılmıştır.\nBu bot ayrıca yargı dağıtır!!!\nBan botudur!');
+            message.channel.send('Bu bot omerkenan tarafından yapılmıştır.\nBan botudur!');
             break;
         case 'clear':
             if(!args[1]) return message.reply('Lütfen bir sayı giriniz! Örnek: "+clear sayı"');
